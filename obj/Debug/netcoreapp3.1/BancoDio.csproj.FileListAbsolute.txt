@@ -1,0 +1,13 @@
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.exe
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.deps.json
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.runtimeconfig.json
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.dll
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\bin\Debug\netcoreapp3.1\BancoDio.pdb
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.dll
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.pdb
+C:\Users\Pichau\source\repos\BancoDio\BancoDio\obj\Debug\netcoreapp3.1\BancoDio.genruntimeconfig.cache
